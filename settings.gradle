@@ -1,2 +1,5 @@
 rootProject.name = 'headFirstDesignPatterStudy'
+include '02_ObserverPattern'
+include '03_DecoratorPattern'
+include '05_Singleton'
 
