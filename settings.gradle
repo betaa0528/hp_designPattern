@@ -2,4 +2,8 @@ rootProject.name = 'headFirstDesignPatterStudy'
 include '02_ObserverPattern'
 include '03_DecoratorPattern'
 include '05_Singleton'
+include '06_CommandPattern'
+include 'Adapter-facade'
+include 'adapter-facade'
+include '07_adapter-facade'
 

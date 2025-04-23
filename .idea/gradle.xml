@@ -12,6 +12,10 @@
             <option value="$PROJECT_DIR$/02_ObserverPattern" />
             <option value="$PROJECT_DIR$/03_DecoratorPattern" />
             <option value="$PROJECT_DIR$/05_Singleton" />
+            <option value="$PROJECT_DIR$/06_CommandPattern" />
+            <option value="$PROJECT_DIR$/07_adapter-facade" />
+            <option value="$PROJECT_DIR$/Adapter-facade" />
+            <option value="$PROJECT_DIR$/adapter-facade" />
           </set>
         </option>
       </GradleProjectSettings>
